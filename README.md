@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, my name is Karoline Cruz 👋
 
-<!--
-**karolinecruztorres/karolinecruztorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Studying Information Systems at Ampli University.<br>
+👯‍♀️ I'm looking for an internship.<br>
+💻 Studying Google Data Analytics and Google UX Design at Coursera.<br>
+🌱 I'm an autodidact, learning HTML, CSS, JavaScript and React.<br>
+⚡️ Music, travelling, movies, series, books and science.
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Put a Portifolio here or do on Behance -->
+<!--[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/karolinecruztorres) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karoline-cruz-torres/) 
+
+<br>
+
+![](https://github-readme-stats.vercel.app/api?username=karolinecruztorres&theme=bear&hide_border=true&include_all_commits=false&count_private=false)<br/>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
