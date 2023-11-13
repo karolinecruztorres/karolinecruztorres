@@ -4,7 +4,7 @@
 👯‍♀️ I'm looking for an internship.<br>
 💻 Studying Google Data Analytics and Google UX Design at Coursera.<br>
 🌱 I'm an autodidact, learning HTML, CSS, JavaScript and React.<br>
-⚡️ Music, travelling, movies, series, books and science.
+⚡️ Music, travelling, movies and science.
 
 <br>
 
