@@ -2,7 +2,7 @@
 
 🔭 Studying Information Systems at Ampli University.<br>
 👯‍♀️ I'm looking for an internship or junior position.<br>
-🌱 I'm an autodidact, learning React and Angular.<br>
+🌱 I'm an autodidact, learning C and Angular.<br>
 ⚡️ Music, travelling, movies and science.
 
 <br>
